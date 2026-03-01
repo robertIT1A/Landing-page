@@ -362,7 +362,6 @@ footer {
 .footer-container {
     max-width: 900px;
 }
-
 .footer-grid {
     grid-template-columns: repeat(1, minmax(50px, 1fr));
     gap: 2rem;
@@ -425,5 +424,6 @@ footer {
 .footer-bottom {
     margin-left: -100px;
 }
+
 
 }
